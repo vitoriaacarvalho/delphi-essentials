@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/09/04 10:13:28.448,=C:\Users\vitor\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/04 10:20:21.497,=C:\Users\vitor\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/04 10:27:44.806,C:\Users\vitor\OneDrive\Documentos\Embarcadero\Studio\Projects\pessoa.pas=C:\Users\vitor\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/09/04 11:11:44.768,C:\FLOW\studying\learning-delphi\Unit1.dfm=C:\Users\vitor\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/04 11:11:44.768,C:\FLOW\studying\learning-delphi\Unit1.pas=C:\Users\vitor\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/04 11:11:48.934,C:\FLOW\studying\learning-delphi\pessoa.pas=C:\Users\vitor\OneDrive\Documentos\Embarcadero\Studio\Projects\pessoa.pas</Transaction>
+    <Transaction>2023/09/04 11:11:51.182,C:\FLOW\studying\learning-delphi\Project1.dproj=C:\Users\vitor\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
